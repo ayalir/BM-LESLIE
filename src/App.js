@@ -72,7 +72,7 @@ export default function EriBMHome() {
           color: "#2155CD" // couleur bleu royal assortie
      }}>
        <span>Mme Mr. Nicole &amp; William Zerbib</span><br />
-       <span>Mme Mr. Sophie  &amp; Laurent Ainouze</span>
+       <span>Mme Mr. Sophie &amp; Laurent Ainouze</span>
        <div style={{ marginTop: 2 }}>Ayal &amp; Lirone</div>
         </div>
 
@@ -113,7 +113,7 @@ export default function EriBMHome() {
             display: "block",
             margin: "10px 0"
           }}>
-            Shabbat 03 Janvier 2026 / 14 Tevet 5786 à 8h30
+            Shabbat 03 Janvier 2026 / 14 Tevet 5786 à 8h00
           </span>
           <br />
           Lecture de la Paracha Vaye’hi ויחי<br />
